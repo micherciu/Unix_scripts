@@ -4,7 +4,7 @@
 #
 # Description:
 #   A configuration/compilation and installation bash script of GMP, MPFR and MPC.
-#   The user has to specify only the accordingly paths for GMP, MPFR and MPC folders. 
+#   The user has to specify only the paths for GMP, MPFR and MPC directories. 
 #   
 # P.S. I use it for gcc specific version compilation
 #
